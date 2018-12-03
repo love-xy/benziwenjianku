@@ -157,26 +157,5 @@ int main()
 		Drawfood();
 		Sleep(100);
 	}
-
-
-
-
-
-
-
-
-
-
-
-
-	//line(0,480,640,0);    //线
-	//circle(320,240,200);    //圆  
-	//rectangle(300,200,400,300);      //矩形   用对角的两个坐标确定的
-
-	//cleardevice;//清除屏幕
-
-	getchar();
-	//printf("hello world!");
-
 	return 0;
 }
